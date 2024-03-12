@@ -25,7 +25,8 @@ ___
 * STAT 510 - [Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)
 * STAT 555 - [Statistical Analysis of Genomics Data](https://online.stat.psu.edu/stat555/)
 
-__
+___
+
 **Alguns livros indicados pelo Programa**:
 * Hogg, R.V., and Tanis, E.A. (2020). Probability and Statistical Inference, 10th Edition, Pearson. ISBN-13: 978-0135189399;
 * Applied Linear Statistical Models by Kutner, Nachtsheim, and Neter (5th edition);
